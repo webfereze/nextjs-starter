@@ -57,13 +57,6 @@ extend: {
         '10xl': ['5rem', { lineHeight: '1' }], // 80px
         '11xl': ['6.25rem', { lineHeight: '1' }], // 100px
       },
-      height: {
-        34: '34px',
-      },
-      width: {
-        34: '34px',
-        74: '74px',
-      },
     },
     theme: {
       screens: {

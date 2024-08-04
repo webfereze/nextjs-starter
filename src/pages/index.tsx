@@ -15,7 +15,7 @@ export default function Home() {
                 <meta name="description" content="starter-nextjs" key="desc" />
             </Head>
 
-            <div>INDEX PAGE</div>
+            <div>INDEX PAGE 2</div>
 
         </>
     );
